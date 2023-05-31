@@ -1,4 +1,4 @@
 # Pixiv
-- DOMAIN-SUFFIX,pximg.net,Pixiv
-- DOMAIN-SUFFIX,pixiv.net,Pixiv
-- DOMAIN-KEYWORD,pixiv,Pixiv
+- DOMAIN-SUFFIX,pximg.net
+- DOMAIN-SUFFIX,pixiv.net
+- DOMAIN-KEYWORD,pixiv
